@@ -74,5 +74,6 @@ Total: 120.0 GiB | Used: 48.0 GiB (40.0%) | Free: 72.0 GiB
 - Disk totals exclude `tmpfs` and `devtmpfs`, because they are RAM-backed temporary filesystems.
 - CPU usage is calculated from the difference between two `/proc/stat` samples taken one second apart.
 
+Project Idea By: https://roadmap.sh/projects/server-stats
 
 [Visit Project Website](https://github.com/prasadsantpure/Project_RoadMaps)
